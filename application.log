@@ -1,0 +1,297 @@
+2024-09-18 16:53:56 INFO  Login_Page:33 - login page element is intialized
+2024-09-18 16:55:48 INFO  Login_Page:33 - login page element is intialized
+2024-09-18 17:08:02 INFO  Login_Page:33 - login page element is intialized
+2024-09-18 17:08:02 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-18 17:16:24 INFO  Login_Page:33 - login page element is intialized
+2024-09-18 17:16:24 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-18 17:37:53 INFO  Login_Page:33 - login page element is intialized
+2024-09-18 17:37:53 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 05:57:53 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 05:58:08 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 05:59:15 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 05:59:28 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:12:40 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:12:52 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:12:52 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:13:04 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:33:34 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:33:48 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:33:48 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:33:57 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:43:39 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:43:51 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:44:02 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:45:46 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:45:58 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:46:10 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:51:06 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:51:17 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:51:24 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:53:22 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:53:36 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:53:46 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:55:05 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:55:17 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:55:25 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 07:57:51 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 07:58:01 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 07:58:11 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 08:01:27 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 08:01:40 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 08:01:50 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 08:05:32 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 08:05:44 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 08:05:52 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 08:06:35 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 08:06:47 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 08:06:57 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 08:08:33 INFO  Login_Page:33 - login page element is intialized
+2024-09-19 08:08:45 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 08:08:57 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 13:05:47 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 13:05:47 INFO  CustomListener:21 - Testcase startedloginTest
+2024-09-19 13:06:01 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 13:06:01 INFO  CustomListener:36 - Testcase successloginTest
+2024-09-19 13:06:01 INFO  CustomListener:50 - Flushed the Extent Report
+2024-09-19 14:11:42 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 14:11:54 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 14:12:05 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 14:12:05 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 14:12:23 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 14:12:31 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:03:13 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:03:13 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:03:13 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:04:54 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:04:55 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:04:55 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:05:33 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:05:34 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:05:34 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:06:10 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:06:10 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:06:10 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:07:12 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:07:34 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 17:07:45 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 17:07:45 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:08:10 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 17:08:12 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:10:17 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:10:39 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 17:10:59 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 17:10:59 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:11:03 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 17:11:05 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:11:26 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:11:47 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 17:12:11 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:12:12 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:12:12 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:12:54 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:13:16 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:13:16 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:13:16 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:14:01 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:14:02 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:14:02 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:15:46 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:16:04 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 17:16:24 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 17:16:24 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:17:12 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 17:17:13 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:19:27 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:19:27 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-19 17:19:27 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:19:48 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:20:40 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 17:21:17 INFO  PhoneCase_Page:26 - Phone Case element is initiated
+2024-09-19 17:21:17 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:22:10 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 17:22:13 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:39:10 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:39:28 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 17:39:28 INFO  TShirts_Page:26 - Phone Case element is initiated
+2024-09-19 17:39:28 INFO  CustomListener:21 - Testcase startedsearchItem
+2024-09-19 17:39:50 INFO  TShirts_Page:26 - Phone Case element is initiated
+2024-09-19 17:39:50 INFO  CustomListener:36 - Testcase successsearchItem
+2024-09-19 17:39:52 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 17:51:03 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 17:51:18 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 17:51:30 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 17:51:30 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 17:52:06 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 17:52:08 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:04:11 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:04:27 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:04:37 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:04:38 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:05:24 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:05:27 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:05:55 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:06:08 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:06:15 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:06:15 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:06:56 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:06:56 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:06:56 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:07:19 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:07:34 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:07:45 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:07:45 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:07:55 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:08:01 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:08:36 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:08:48 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:08:59 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:09:00 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:09:49 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:09:51 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:12:27 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:12:40 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:12:48 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:12:48 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:13:22 INFO  CustomListener:36 - Testcase successbookItem
+2024-09-19 18:13:24 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:14:32 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:14:46 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:14:54 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:14:55 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:15:04 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:15:08 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:15:37 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:15:52 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:16:05 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:16:06 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:17:10 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:17:13 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:23:56 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:24:08 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:24:20 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:24:20 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:25:07 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:25:08 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:30:25 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:30:40 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:30:48 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:30:48 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:31:31 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:31:35 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:32:07 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:32:21 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:32:35 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:32:35 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:32:40 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:32:46 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:33:06 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:33:25 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:33:35 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:33:36 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:34:15 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:34:17 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:35:28 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:35:41 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:35:49 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:35:49 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:36:34 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:36:39 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:39:32 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:39:45 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:39:59 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:40:00 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:40:02 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:40:05 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:40:33 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:40:46 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:40:54 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:40:54 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:41:34 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:41:37 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:43:52 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:44:06 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:44:16 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:44:17 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:44:59 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:45:02 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-19 18:47:14 INFO  Login_Page:34 - login page element is intialized
+2024-09-19 18:47:30 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-19 18:47:41 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-19 18:47:41 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-19 18:48:25 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-19 18:48:40 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 11:20:45 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 11:21:16 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 11:22:01 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 11:22:03 WARN  CustomListener:29 - Testcase skippedbookItem
+2024-09-20 11:22:03 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 15:37:20 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 15:37:40 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 15:37:40 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 15:37:40 INFO  CustomListener:21 - Testcase startedsearchItem
+2024-09-20 15:37:50 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 15:37:50 INFO  CustomListener:36 - Testcase successsearchItem
+2024-09-20 15:37:52 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 16:39:34 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 16:39:50 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 16:40:02 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 16:40:03 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 16:40:51 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-20 16:40:54 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 16:53:50 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 16:54:03 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 16:54:18 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 16:54:18 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 16:55:14 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-20 16:55:17 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 16:57:05 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 16:57:18 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 16:57:31 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 16:57:32 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 16:57:36 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-20 16:57:39 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 16:58:01 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 16:58:17 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 16:58:29 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 16:58:29 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 16:58:42 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-20 16:58:45 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 16:59:15 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 16:59:28 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 16:59:39 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 16:59:40 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 16:59:54 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-20 16:59:57 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 17:00:22 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 17:00:41 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 17:00:49 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 17:00:50 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 17:01:04 ERROR CustomListener:43 - Testcase failedbookItem
+2024-09-20 17:01:07 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 17:02:38 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 17:03:11 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 17:03:23 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 17:03:23 INFO  CustomListener:21 - Testcase startedbookItem
+2024-09-20 17:03:39 INFO  CustomListener:36 - Testcase successbookItem
+2024-09-20 17:03:42 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 18:06:04 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 18:06:16 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 18:06:26 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 18:06:43 INFO  TShirts_Page:44 - Shopping Cart element is initiated
+2024-09-20 18:06:43 INFO  CustomListener:21 - Testcase startedenter_address
+2024-09-20 18:06:45 ERROR CustomListener:43 - Testcase failedenter_address
+2024-09-20 18:06:46 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 18:08:00 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 18:08:16 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 18:08:28 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 18:08:45 INFO  TShirts_Page:44 - Shopping Cart element is initiated
+2024-09-20 18:08:46 INFO  CustomListener:21 - Testcase startedenter_address
+2024-09-20 18:08:47 ERROR CustomListener:43 - Testcase failedenter_address
+2024-09-20 18:08:49 INFO  CustomListener:52 - Flushed the Extent Report
+2024-09-20 18:10:02 INFO  Login_Page:34 - login page element is intialized
+2024-09-20 18:10:19 INFO  Home_Page:35 - Home Page element is initiated
+2024-09-20 18:10:30 INFO  TShirts_Page:26 - TShirt element is initiated
+2024-09-20 18:10:58 INFO  TShirts_Page:44 - Shopping Cart element is initiated
+2024-09-20 18:10:58 INFO  CustomListener:21 - Testcase startedenter_address
+2024-09-20 18:11:01 ERROR CustomListener:43 - Testcase failedenter_address
+2024-09-20 18:11:03 INFO  CustomListener:52 - Flushed the Extent Report
